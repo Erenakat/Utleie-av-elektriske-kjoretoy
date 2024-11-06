@@ -1,0 +1,146 @@
+body{
+    background-color: black;
+    color: white;
+}
+.link{
+    font-size: 30px;
+    width: 820px;
+    background-color: yellow;
+    color: white;
+    cursor: pointer;
+}
+.tekst{
+    font-size:30px;
+    text-align: center;
+}
+.sykkel1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    bottom: 90px;
+    margin-top: 30px;
+}
+.sykkel2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    bottom: 90px;
+    margin-top: 0%  ; 
+}
+.sykkel3{
+    display: block;
+    margin-left: auto;
+    width: 49%;
+    bottom: 60px;
+    margin-top: -262px;
+}
+.båter1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 23%;
+    bottom: 90px;
+    margin-top: 50px;
+}
+.båter2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    bottom: 90px;
+    margin-top: 33px; 
+}
+.båter3{
+    display: block;
+    margin-left: auto;
+    width: 950px;
+    bottom: 90px;
+    margin-top: -280px;
+}
+.h2{
+    text-align: center;
+}
+.bergen{
+    text-align: center;
+    margin-left: -100px;
+    margin-top: -300px;
+    flex-direction: column;
+    flex-grow: 0;
+    flex-wrap: wrap;
+}
+.oslo{
+    text-align: center;
+    margin-left: -100px;
+    margin-top: -350px;
+    flex-direction: column;
+    flex-grow: 0;
+    flex-wrap: wrap;
+}
+.table,td,th{
+    border:1px solid black;
+    width: 600px;
+}
+.table,th{
+    width: 200px;
+}
+.bil{
+    display: block;
+    margin-left: auto;
+    width: 47%;
+    bottom: 90px;
+    margin-top: -353px;
+}
+.info{
+    display: block;
+    margin-left: auto;
+    width: 63%;
+    bottom: 90px;
+    margin-top: 0px;
+}
+.bilde{
+    display: flex;
+    justify-content: center;
+}
+.h22{
+    text-align: center;
+}
+.sykkel{
+    position: absolute;
+    left: 625px;
+}
+.baater{
+    position: absolute;
+    left: 950px;
+}
+.biler{
+    position: absolute;
+    right: 675px;
+}
+.bilde1{
+    width: 280px;
+    height: 280px;
+    margin-right: 50px;
+    margin-bottom: 50px;  
+}
+.bilder{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+.overskrift{
+    color:#03c6fc; 
+    text-align: center; 
+    font-size: 100px;
+}
+.overskrift2{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+
+            
+        
